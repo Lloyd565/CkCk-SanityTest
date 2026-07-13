@@ -1,1 +1,2 @@
-#this is just a sanity testing for our final project, manurung hitam
+#Saya mengaku memanfaatkan repo ini untuk menambah commit harian saya. 
+#~ Hackathon FINDIT 2025 2nd Winner
